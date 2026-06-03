@@ -80,7 +80,7 @@ Built a home Security Operations Center environment for threat detection and inc
 **Technologies**
 Splunk, Windows Server, Sysmon
 
-<a href="https://google.com">[View Project]</a>
+<a href="https://github.com/lancezealot/SOC-Detection-Lab">[View Project]</a>
 
 ---
 
