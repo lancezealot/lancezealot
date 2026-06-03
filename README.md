@@ -80,7 +80,7 @@ Built a home Security Operations Center environment for threat detection and inc
 **Technologies**
 Splunk, Windows Server, Sysmon
 
-[View Project]
+<a href="https://google.com">[View Project]</a>
 
 ---
 
